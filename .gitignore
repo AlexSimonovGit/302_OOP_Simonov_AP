@@ -1,0 +1,14 @@
+# Игнорировать директорию vendor
+vendor/
+
+# Игнорировать временные файлы PHPUnit
+.phpunit.result.cache
+
+# Игнорировать файлы Composer (локальные)
+composer.lock
+
+# Игнорировать системные файлы
+*.log
+*.tmp
+*.bak
+
