@@ -1,0 +1,1 @@
+{"version":1,"defects":{"App\\Tests\\RoomTest::testEconomyRoomWithAllServices":7},"times":{"App\\Tests\\RoomTest::testEconomyRoom":0.009,"App\\Tests\\RoomTest::testStandardRoomWithInternet":0.002,"App\\Tests\\RoomTest::testLuxeRoomWithSofaAndDinner":0.002,"App\\Tests\\RoomTest::testEconomyRoomWithAllServices":0.002}}
